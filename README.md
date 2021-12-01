@@ -1,6 +1,7 @@
 # WebDesign
 
-Web page is developed with HTML, CSS and Bootstrap components.
+Web page  https://jobyaugustine.github.io/WebDesign/ 
+is developed with HTML, CSS and Bootstrap components.
 
 The navigaton to different pages are done using the navbar component of bootstrap.
 
